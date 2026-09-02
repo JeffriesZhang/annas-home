@@ -44,6 +44,8 @@ export default function Home() {
             fill
             priority
             sizes="(min-width: 1024px) 50vw, 100vw"
+            placeholder={heroCase.coverBlurDataURL ? "blur" : "empty"}
+            blurDataURL={heroCase.coverBlurDataURL}
             className="object-cover"
           />
         </div>

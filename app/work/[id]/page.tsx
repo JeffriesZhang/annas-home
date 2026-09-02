@@ -17,22 +17,26 @@ export async function generateMetadata(props: PageProps<"/work/[id]">) {
   return { title: item ? `${item.title} | Anna's Home Staging` : "Case Study" };
 }
 
-function PhotoGrid({ title, photos }: { title: string; photos: string[] }) {
+type CasePhoto = { src: string; original: string; blurDataURL: string };
+
+function PhotoGrid({ title, photos }: { title: string; photos: CasePhoto[] }) {
   return (
     <div className="grid gap-4 sm:grid-cols-3">
-      {photos.map((src) => (
+      {photos.map((photo) => (
         <a
-          key={src}
-          href={withBasePath(src)}
+          key={photo.src}
+          href={withBasePath(photo.original)}
           target="_blank"
           rel="noreferrer"
-          className="relative block aspect-[4/3] w-full overflow-hidden rounded-lg"
+          className="relative block aspect-[4/3] w-full overflow-hidden rounded-lg bg-muted"
         >
           <Image
-            src={withBasePath(src)}
+            src={withBasePath(photo.src)}
             alt={title}
             fill
             sizes="(min-width: 640px) 33vw, 100vw"
+            placeholder="blur"
+            blurDataURL={photo.blurDataURL}
             className="object-cover transition-transform duration-300 hover:scale-[1.02]"
           />
         </a>
@@ -47,8 +51,8 @@ export default async function CaseDetailPage(props: PageProps<"/work/[id]">) {
   if (!item) notFound();
 
   const photos = item.photos ?? [];
-  const aerialPhotos = photos.filter((src) => src.includes("/DJI_"));
-  const interiorPhotos = photos.filter((src) => !src.includes("/DJI_"));
+  const aerialPhotos = photos.filter((p) => p.src.includes("/DJI_"));
+  const interiorPhotos = photos.filter((p) => !p.src.includes("/DJI_"));
 
   return (
     <div className="mx-auto max-w-5xl px-6 py-20">
@@ -87,6 +91,9 @@ export default async function CaseDetailPage(props: PageProps<"/work/[id]">) {
 
       {photos.length > 0 ? (
         <div className="mt-12 space-y-12">
+          <p className="text-xs text-muted-foreground">
+            Click any photo to view full size.
+          </p>
           {interiorPhotos.length > 0 && (
             <div>
               <h2 className="text-xl font-semibold tracking-tight">Interior</h2>

@@ -10,7 +10,8 @@ type CaseItem = {
   location: string;
   category?: string;
   cover: string;
-  photos?: string[];
+  coverBlurDataURL?: string;
+  photos?: { src: string; original: string; blurDataURL: string }[];
 };
 
 export function CaseCard({
@@ -31,6 +32,8 @@ export function CaseCard({
             alt={item.title}
             fill
             sizes="(min-width: 640px) 50vw, 100vw"
+            placeholder={item.coverBlurDataURL ? "blur" : "empty"}
+            blurDataURL={item.coverBlurDataURL}
             className="object-cover transition-transform duration-300 group-hover:scale-[1.02]"
           />
         ) : (

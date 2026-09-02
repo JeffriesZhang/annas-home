@@ -7,48 +7,205 @@
     "description": "Full-property staging for a single-family home in Mountain View, including furniture, decor, and an interactive 3D walkthrough for remote buyers.",
     "cover": "/images/cases/1506-canna-ct-mountain-view-ca-94043/cover.jpg",
     "photos": [
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/DJI_20260422160404_0086_D.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/DJI_20260422160451_0089_D.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/DJI_20260422160532_0092_D.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/DJI_20260422160556_0094_D.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/DJI_20260422160659_0096_D.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/DJI_20260422160920_0103_D.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4654.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4673.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4680.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4684.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4691.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4704.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4711.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4718.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4723.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4731.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4737.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4744.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4748.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4765.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4769.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4781.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4791.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4795.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4804.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4807.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4811.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4867.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4870.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4876.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4879.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4882.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4894.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4912.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4915.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4918.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4924.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4930.jpg",
-      "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4936.jpg"
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/DJI_20260422160404_0086_D.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/DJI_20260422160404_0086_D.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEE/8QAIBAAAQMEAgMAAAAAAAAAAAAAAQACIQMEERITURQxof/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAC/9oADAMBAAIRAxEAPwBG3V2yeZwA7SeXc6l3O7bohZyBu1uIBI+qU5bScScnOZ9ypumS/9k="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/DJI_20260422160451_0089_D.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/DJI_20260422160451_0089_D.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAQT/xAAgEAEAAQMEAwEAAAAAAAAAAAABEQACAwQFEiExMrHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEgH/2gAMAwEAAhEDEQA/AKTcNWEOSUO24KXcNWhZzxwkxxPlS5luusFY5H7Se+Pt7I81OtJf/9k="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/DJI_20260422160532_0092_D.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/DJI_20260422160532_0092_D.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEF/8QAIBAAAQQCAQUAAAAAAAAAAAAAAQIDESEABDEFEyJSYf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAB/9oADAMBAAIRAxEAPwBJ39oKIDswbBAynqGxwl2a9Yg5lPOr7Tt8OQK+YjXSHWELX5KM3OQ6wv/Z"
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/DJI_20260422160556_0094_D.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/DJI_20260422160556_0094_D.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEE/8QAIRAAAgEDAwUAAAAAAAAAAAAAAQIRAANBEhMhFBUxUqH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAMBAQAAAAAAAAAAAAAAAAABAhFR/9oADAMBAAIRAxEAPwDV3K+06r0D2KgxU6++qg7hnBC+aF+F4yJ+0TKNx1wEDATnmpOq6MR//9k="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/DJI_20260422160659_0096_D.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/DJI_20260422160659_0096_D.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgP/xAAhEAABAwQBBQAAAAAAAAAAAAABAgMRAAQSIQUiIzFR8P/EABUBAQEAAAAAAAAAAAAAAAAAAAEE/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQADEjH/2gAMAwEAAhEDEQA/AFx7bbly4LhAVlpKZgq+9VS4tmrNWSHCATpMTFSWAek+DGqLXcebzJVBUN71FSU2bESB2f/Z"
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/DJI_20260422160920_0103_D.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/DJI_20260422160920_0103_D.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIxAAAgIBAAsAAAAAAAAAAAAAAQIDEQAEBRITITEyQVFhcf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIRAxEAPwBEcYWFN5as5ApOQviMHPCq6Uws7K0QoPV995TWrskcRViCyhjXc5nLPI0oLOSSRZ85DQr/2Q=="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4654.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4654.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAHRABAQACAgMBAAAAAAAAAAAAAQIAEQMEEiEiI//EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQADAQAAAAAAAAAAAAAAAAAAESES/9oADAMBAAIRAxEAPwDaexP14aCXVbTDnu3dpHGsbDyd5J0eOKnkakV0q+8a/wAqI4/mQ9Bg1GJVH//Z"
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4673.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4673.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAIBAAAgEEAQUAAAAAAAAAAAAAAQIRAAMhMQQTFCJBUf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAECEv/aAAwDAQACEQMRAD8A2+7FssWwvqfkbqbnc9uhFiRcbWMGiR2APkc7plYsAGyBqals5q//2Q=="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4680.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4680.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAIBAAAgEEAQUAAAAAAAAAAAAAAQIDABESITEEBRMUkf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/ANV+6wxaZXJHIUZEfKU9bFIowexPGWqmQD2EWwsTsWpXhjD+QKM7c0BWSZf/2Q=="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4684.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4684.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACEQAAEDAwQDAAAAAAAAAAAAAAECAxEABCEFEjFRIkGR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQADAAAAAAAAAAAAAAAAAAABAhL/2gAMAwEAAhEDEQA/ANtV4LcFLqT49Z+d0lnWbV5QbS4Cs4gTzRebRunaJHuonWGuQgAzOMUWyRR//9k="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4691.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4691.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQQF/8QAHhAAAQQCAwEAAAAAAAAAAAAAAQACAxEEMQUhYTL/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABURAQEAAAAAAAAAAAAAAAAAAAAS/9oADAMBAAIRAxEAPwDWiyXuAFAFE3JxQNDpTTbo+J+YxQHe/VBktEdlgonanZy//9k="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4704.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4704.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAB/8QAHxAAAgEEAwEBAAAAAAAAAAAAAQIRAAMEEgUhMRRx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAAMBAAAAAAAAAAAAAAAAAAABAhH/2gAMAwEAAhEDEQA/AGrvI4+OUW44DP0o9mq/lMMZ2RSH1MSJE0VcRDa2KglfDHlbxrt8M7EyxHf7QVaJzh//2Q=="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4711.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4711.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EAB4QAAIBBAMBAAAAAAAAAAAAAAECAwAEESEFEhMi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQEBAQEAAAAAAAAAAAAAAAARAQAh/9oADAMBAAIRAxEAPwCvDLi7kJZOsm1AOzTHsuD9bA3WT4uWS4uvSZ2d8E5JoN6zDkZQDrNTK0ycd//Z"
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4718.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4718.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIDAAQRIQUxElFh8P/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFxEAAwEAAAAAAAAAAAAAAAAAABEhQf/aAAwDAQACEQMRAD8AZN4EcLg5YEnOsYqN3d+VvIEkETggBmGt/u6z/KXM03KSRyOSiHS9ClJ5GWe2IPZCn6PVS6K0/9k="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4723.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4723.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAHxAAAgICAgMBAAAAAAAAAAAAAQIDEQAEBUESISJC/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAAMBAAAAAAAAAAAAAAAAAAABAiH/2gAMAwEAAhEDEQA/AEZOWii2I4XcRsL81cEGuq6y0PJ607BFkUyN+QbrCNz603LezV33mPURY1RkFMwFm8DvBqdP/9k="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4731.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4731.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIF/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIAAxESBCExYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERAv/aAAwDAQACEQMRAD8A2m5IQbEELj6ZJ52lO9i6eifMCqmtq0LKGOM99wbLGashjkQPUElT/9k="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4737.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4737.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwX/xAAgEAACAQQBBQAAAAAAAAAAAAABAhEAAxIhBBUiMUGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwC+WAtyVygEx8ol59rtTNFuEA4k73Q8h2CCCRU1lHUrDEST5n3qgx//2Q=="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4744.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4744.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQL/xAAeEAABAwUBAQAAAAAAAAAAAAABAAIDBBESITETIv/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQADAQAAAAAAAAAAAAAAAAAAESES/9oADAMBAAIRAxEAPwB2WrjieG9sPqw4rdIMShsA+nkkft5e25J7sJKoaPUaHENRiVR//9k="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4748.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4748.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQID/8QAHxAAAgICAQUAAAAAAAAAAAAAAQIDEQAEEgUhMWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAXEQADAQAAAAAAAAAAAAAAAAAAASER/9oADAMBAAIRAxEAPwB+LZikiEiEcSPNVkpsB15KQfmHdJULqBxdsO9knMlZhpzMGIKytRB95HNCp//Z"
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4765.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4765.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBv/EAB0QAAICAgMBAAAAAAAAAAAAAAECAAMEERIhMUH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAwEBAAAAAAAAAAAAAAAAABEhAQL/2gAMAwEAAhEDEQA/ANFQrAEOoA313vYir3tD8a1HH6ZLl32rcEVyF14IY1rvUxZiSDBnVQlGf//Z"
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4769.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4769.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACAQAAICAgEFAQAAAAAAAAAAAAECAxEAMRIEBSFBUbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAAv/aAAwDAQACEQMRAD8A0fNdIb9GtX8wFbXI2d5F7x1EqziJXKxkWVHi8ZglkaRgzEgKPzCNZk8wHf/Z"
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4781.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4781.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQED/8QAHxABAAEEAgMBAAAAAAAAAAAAAQIAAxEhBBIiMUFR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQACAwAAAAAAAAAAAAAAAAAAAQIRIf/aAAwDAQACEQMRAD8AflyIxV8WEfaO6tvkW7kXCL7Mfnyi7Hn3JbDQVheklx6uMaMaqbnljUdo/9k="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4791.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4791.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIG/8QAIBAAAgIBAwUAAAAAAAAAAAAAAQIDEQAEEiExUWGRof/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/ANAJo2sq3A6jtlGVERmlZQLoEn1hdx2t5FfcLrnZRGymjzyMFyQ2/9k="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4795.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4795.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EAB4QAAEEAwADAAAAAAAAAAAAAAEAAgMhERIxBEFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREC/9oADAMBAAIRAxEAPwDQOnbGA0d7xBL5Q0D4xuDivZHxR2EktebdnptNPO0N3eFNbqonmM//2Q=="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4804.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4804.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEG/8QAHRAAAgIDAQEBAAAAAAAAAAAAAQIDEQAEIRIiMf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQADAQEAAAAAAAAAAAAAAAAAAQIREv/aAAwDAQACEQMRAD8A0GtOJNdZHQxNXVJ/MjbEaj07UCaW+XgumSfIJJBFEE3zE5PsqrdWhw4JrpCaw//Z"
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4807.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4807.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACEQAAIBBAEFAQAAAAAAAAAAAAECAwAEERJBFCEiMVFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAQADAAAAAAAAAAAAAAAAAAARQWH/2gAMAwEAAhEDEQA/ANvqNVkUgBlA1J9E4ooZ1eMbHLY78VGkSNah2UFiAcn7TXt4ltyFjUePH5RUnH//2Q=="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4811.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4811.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EABwQAAMAAgMBAAAAAAAAAAAAAAECEQADBBIhIv/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAARACH/2gAMAwEAAhEDEQA/ANH3i+CnBLufpiIMl5Gx10+MRTMRxdruIzUAwYOkmN//2Q=="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4867.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4867.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECA//EAB4QAAICAQUBAAAAAAAAAAAAAAEDAhEAEiEiMXFB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQADAQEAAAAAAAAAAAAAAAAAARESIf/aAAwDAQACEQMRAD8Ajk4azCQXAcTpoAe4KciK1iC5scRp+HfzEZGhuesyTMxc2qFwj0MnM0TXKf/Z"
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4870.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4870.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAdEAEAAwADAAMAAAAAAAAAAAABAgMRAAQhFCKh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAYEQEBAAMAAAAAAAAAAAAAAAACAAERMf/aAAwDAQACEQMRAD8AW+cLevXZYPoJ9sxT94LP5OQCMVU3eHKTG9YuPnKa7Zz6qzdRz05JnC7MnV//2Q=="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4876.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4876.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQED/8QAIBAAAgEEAwADAAAAAAAAAAAAAQIDAAQRIRITIjGBsf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEBAQADAAAAAAAAAAAAAAAAAQARITH/2gAMAwEAAhEDEQA/AMbN4m4syydhGzx8/dKPeILdhGg5DQB1nFS2jRnKMoK5OqOnPfYzNKAzLGCDj49Y/KmccTTZf//Z"
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4879.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4879.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDBP/EAB8QAAICAgIDAQAAAAAAAAAAAAECAxEABBIhMUFCYf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFxEBAAMAAAAAAAAAAAAAAAAAAQACEf/aAAwDAQACEQMRAD8AEQgIJVTIVFVXV/pxJn5cY41Za+feZtF25Mt9Vld9iusZASHUimHnIY2rCGk//9k="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4882.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4882.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EAB0QAAIBBQEBAAAAAAAAAAAAAAEDAgAEESExEjL/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABkRAAIDAQAAAAAAAAAAAAAAAAIRAAEDEv/aAAwDAQACEQMRAD8AawXcWcR882DLtDyxzhJypZxjMdgVnZIiCCDvxUGuZEAiZBqUj0ouXBac/9k="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4894.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4894.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAHhAAAgEEAwEAAAAAAAAAAAAAAQIDAAQRIRITMWH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhED/9oADAMBAAIRAxEAPwCewLQSPIsLgk6I8rSkvhxy0TSMPDxzmh7GjlAQgAnYAG6S9jRCGVcH5U51sGkKaT//2Q=="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4912.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4912.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAhEAACAQMEAwEAAAAAAAAAAAABAhEAAwQSIjFBBSEjcf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECEiER/9oADAMBAAIRAxEAPwBeIRuVrpZhwTzH73TsZ7TptbUSeZk1B8IxuF9Z1d+6difPMCJCqTMAVLlq6K1WH//Z"
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4915.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4915.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAhEAACAgEDBQEAAAAAAAAAAAABAgMRABMxQQQFEiIzcf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQEBAAMAAAAAAAAAAAAAAAABAAIxYf/aAAwDAQACEQMRAD8AuRywltMSLYNEXtgZ4NSVkmDMhUknZb/Bhe3/AAeWvckny5wnWzSK9h2Bvg4BDU3Dt//Z"
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4918.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4918.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIE/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIDEQAEEyExYaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAAhH/2gAMAwEAAhEDEQA/AFNWCWRQ/KAPApLytjTkCG9llU9HqgPuFaju6h2dixqzZza5LRkN2PeFeUMl/9k="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4924.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4924.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDBP/EAB0QAAEFAAMBAAAAAAAAAAAAAAEAAgMEERIhMfH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAAIDAAAAAAAAAAAAAAAAAAABERIh/9oADAMBAAIRAxEAPwDRaqRHiHSRmTog76PiW7Se+uGQ2oo2nsDdBRLGkYWjPMVDDGYwS3So2WKo/9k="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4930.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4930.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAP/xAAgEAABAwQCAwAAAAAAAAAAAAABAgMEABESIgUhFDFB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQISEyH/2gAMAwEAAhEDEQA/AHFtccqTm2txIHRVY1PkIUuTF1faQ39Cri9BlurCUrB3JG1u6NNkO+SBmbY+qjs5cFUj/9k="
+      },
+      {
+        "src": "/images/cases/1506-canna-ct-mountain-view-ca-94043/photos/PHO_4936.jpg",
+        "original": "/images/cases/1506-canna-ct-mountain-view-ca-94043/originals/PHO_4936.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAgEAACAQQBBQAAAAAAAAAAAAABAgQAERIhAxMxQUJR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQEBAAMAAAAAAAAAAAAAAAABAAIREv/aAAwDAQACEQMRAD8AaND6ElgGRj63I+bqzljyGTDNVDeLjdRtxIyjJb7PejYALrVTioaJyX//2Q=="
+      }
     ],
     "floorPlan": "/images/cases/1506-canna-ct-mountain-view-ca-94043/floor-plan.jpg",
-    "matterportUrl": "https://my.matterport.com/show/?m=iST4K7ms7cV&brand=0"
+    "matterportUrl": "https://my.matterport.com/show/?m=iST4K7ms7cV&brand=0",
+    "coverBlurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAHRABAQACAgMBAAAAAAAAAAAAAQIAEQMEEiEiI//EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQADAQAAAAAAAAAAAAAAAAAAESES/9oADAMBAAIRAxEAPwDaexP14aCXVbTDnu3dpHGsbDyd5J0eOKnkakV0q+8a/wAqI4/mQ9Bg1GJVH//Z"
   },
   {
     "id": "sunnyvale-3br",
