@@ -1,9 +1,9 @@
 import Link from "next/link";
 
 const NAV_LINKS = [
-  { href: "/", label: "首页" },
-  { href: "/work", label: "服务与案例" },
-  { href: "/about", label: "关于我们" },
+  { href: "/", label: "Home" },
+  { href: "/work", label: "Work" },
+  { href: "/about", label: "About" },
 ];
 
 export function SiteHeader() {

@@ -1,34 +1,34 @@
 [
   {
     "id": "sunnyvale-3br",
-    "title": "Sunnyvale 三居室改造",
+    "title": "Sunnyvale 3-Bedroom Remodel",
     "location": "Sunnyvale, CA",
-    "category": "住宅出售",
-    "description": "为一套挂牌待售的三居室独栋住宅提供全屋软装陈设，突出客厅采光与开放式厨房布局。",
+    "category": "For Sale",
+    "description": "Full staging for a three-bedroom single-family listing, highlighting the living room's natural light and open kitchen layout.",
     "cover": "/images/cases/sunnyvale-3br.jpg"
   },
   {
     "id": "san-jose-condo",
-    "title": "San Jose 公寓翻新",
+    "title": "San Jose Condo Refresh",
     "location": "San Jose, CA",
-    "category": "公寓出租",
-    "description": "针对年轻租客群体的现代简约风格陈设，快速提升空置公寓的出租转化率。",
+    "category": "For Rent",
+    "description": "A modern, minimal styling plan aimed at young renters to quickly boost lease conversion for a vacant unit.",
     "cover": "/images/cases/san-jose-condo.jpg"
   },
   {
     "id": "palo-alto-family",
-    "title": "Palo Alto 家庭住宅",
+    "title": "Palo Alto Family Home",
     "location": "Palo Alto, CA",
-    "category": "住宅出售",
-    "description": "面向家庭买家的温馨风格布置，重点呈现后院与主卧套房空间。",
+    "category": "For Sale",
+    "description": "A warm, family-oriented staging approach that showcases the backyard and primary suite for family buyers.",
     "cover": "/images/cases/palo-alto-family.jpg"
   },
   {
     "id": "oakland-loft",
-    "title": "Oakland Loft 公寓",
+    "title": "Oakland Loft Apartment",
     "location": "Oakland, CA",
-    "category": "公寓出租",
-    "description": "工业风 Loft 空间的极简陈设方案，保留原始建筑特色的同时提升生活气息。",
+    "category": "For Rent",
+    "description": "A minimal, industrial-style staging plan that preserves the building's original character while adding warmth.",
     "cover": "/images/cases/oakland-loft.jpg"
   }
 ]

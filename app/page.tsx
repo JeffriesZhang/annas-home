@@ -13,28 +13,29 @@ export default function Home() {
     <div>
       <section className="mx-auto max-w-5xl px-6 py-24 sm:py-32">
         <p className="text-sm font-medium text-muted-foreground">
-          Bay Area 家居陈设服务
+          Bay Area Home Staging
         </p>
         <h1 className="mt-4 max-w-2xl text-4xl font-semibold tracking-tight sm:text-5xl">
-          用专业陈设，让每一套房产更快找到买家
+          Professional staging that helps every listing find its buyer, faster
         </h1>
         <p className="mt-6 max-w-xl text-base text-muted-foreground">
-          Anna&apos;s Home Staging 为经纪人与业主提供从软装陈设到空间规划的一站式服务，
-          帮助房源在市场上脱颖而出。
+          Anna&apos;s Home Staging offers full-service staging and space
+          planning for agents and homeowners, helping listings stand out in
+          the market.
         </p>
         <div className="mt-8 flex gap-4">
-          <Button size="lg" render={<Link href="/work">查看服务与案例</Link>} />
+          <Button size="lg" render={<Link href="/work">View Work</Link>} />
           <Button
             size="lg"
             variant="outline"
-            render={<Link href="/about">了解我们</Link>}
+            render={<Link href="/about">About Us</Link>}
           />
         </div>
       </section>
 
       <section className="border-t border-border bg-muted/30">
         <div className="mx-auto max-w-5xl px-6 py-20">
-          <h2 className="text-2xl font-semibold tracking-tight">服务内容</h2>
+          <h2 className="text-2xl font-semibold tracking-tight">Services</h2>
           <div className="mt-8 grid gap-6 sm:grid-cols-3">
             {services.map((service) => (
               <Card key={service.id} className="border-border/80">
@@ -52,12 +53,12 @@ export default function Home() {
 
       <section className="mx-auto max-w-5xl px-6 py-20">
         <div className="flex items-baseline justify-between">
-          <h2 className="text-2xl font-semibold tracking-tight">近期案例</h2>
+          <h2 className="text-2xl font-semibold tracking-tight">Recent Projects</h2>
           <Link
             href="/work"
             className="text-sm text-muted-foreground transition-colors hover:text-foreground"
           >
-            查看全部 →
+            View all →
           </Link>
         </div>
         <div className="mt-8 grid gap-6 sm:grid-cols-3">

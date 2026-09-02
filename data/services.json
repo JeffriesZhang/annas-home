@@ -1,17 +1,17 @@
 [
   {
     "id": "full-staging",
-    "title": "全屋软装陈设",
-    "description": "为空置房产提供完整的家具、软装与配饰租赁陈设，帮助买家建立情感连接，缩短挂牌周期。"
+    "title": "Full Home Staging",
+    "description": "Complete furniture, decor, and accessory rentals for vacant properties, helping buyers form an emotional connection and shortening time on market."
   },
   {
     "id": "consultation",
-    "title": "陈设咨询",
-    "description": "针对已有家具的住宅，提供现场评估与摆放建议，用最小改动提升空间呈现效果。"
+    "title": "Staging Consultation",
+    "description": "On-site assessment and styling advice for occupied homes, improving presentation with minimal changes."
   },
   {
     "id": "vacant-staging",
-    "title": "空置房产速陈设",
-    "description": "标准化流程与固定周转周期，适合需要快速上市的经纪人与业主。"
+    "title": "Vacant Property Staging",
+    "description": "A standardized process with a fixed turnaround, ideal for agents and owners who need to list quickly."
   }
 ]
