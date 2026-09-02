@@ -1,34 +1,50 @@
+import Image from "next/image";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
-import { PlaceholderImage } from "@/components/placeholder-image";
+import { CaseCard } from "@/components/case-card";
+import { withBasePath } from "@/lib/base-path";
 import servicesData from "@/data/services.json";
 import casesData from "@/data/cases.json";
 
 export default function Home() {
   const services = servicesData.slice(0, 3);
   const featuredCases = casesData.slice(0, 3);
+  const heroCase = casesData[0];
 
   return (
     <div>
-      <section className="mx-auto max-w-5xl px-6 py-24 sm:py-32">
-        <p className="text-sm font-medium text-muted-foreground">
-          Bay Area Home Staging
-        </p>
-        <h1 className="mt-4 max-w-2xl text-4xl font-semibold tracking-tight sm:text-5xl">
-          Professional staging that helps every listing find its buyer, faster
-        </h1>
-        <p className="mt-6 max-w-xl text-base text-muted-foreground">
-          Anna&apos;s Home Staging offers full-service staging and space
-          planning for agents and homeowners, helping listings stand out in
-          the market.
-        </p>
-        <div className="mt-8 flex gap-4">
-          <Button size="lg" render={<Link href="/work">View Work</Link>} />
-          <Button
-            size="lg"
-            variant="outline"
-            render={<Link href="/about">About Us</Link>}
+      <section className="mx-auto grid max-w-5xl gap-12 px-6 py-24 sm:py-32 lg:grid-cols-2 lg:items-center">
+        <div>
+          <p className="text-sm font-medium text-muted-foreground">
+            Bay Area Home Staging
+          </p>
+          <h1 className="mt-4 text-4xl font-semibold tracking-tight select-none sm:text-5xl">
+            Professional staging that helps every listing find its buyer,
+            faster
+          </h1>
+          <p className="mt-6 max-w-xl text-base text-muted-foreground">
+            Anna&apos;s Home Staging offers full-service staging and space
+            planning for agents and homeowners, helping listings stand out in
+            the market.
+          </p>
+          <div className="mt-8 flex gap-4">
+            <Button size="lg" render={<Link href="/work">View Work</Link>} />
+            <Button
+              size="lg"
+              variant="outline"
+              render={<Link href="/about">About Us</Link>}
+            />
+          </div>
+        </div>
+        <div className="relative aspect-[4/3] w-full overflow-hidden rounded-xl">
+          <Image
+            src={withBasePath(heroCase.cover)}
+            alt={heroCase.title}
+            fill
+            priority
+            sizes="(min-width: 1024px) 50vw, 100vw"
+            className="object-cover"
           />
         </div>
       </section>
@@ -63,14 +79,7 @@ export default function Home() {
         </div>
         <div className="mt-8 grid gap-6 sm:grid-cols-3">
           {featuredCases.map((item) => (
-            <div key={item.id}>
-              <PlaceholderImage
-                label={item.title}
-                className="aspect-[4/3] w-full rounded-lg"
-              />
-              <p className="mt-3 text-sm font-medium">{item.title}</p>
-              <p className="text-xs text-muted-foreground">{item.location}</p>
-            </div>
+            <CaseCard key={item.id} item={item} />
           ))}
         </div>
       </section>

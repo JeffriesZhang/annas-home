@@ -1,4 +1,5 @@
 import type { NextConfig } from "next";
+import { basePath } from "./lib/base-path";
 
 const nextConfig: NextConfig = {
   output: "export",
@@ -6,7 +7,7 @@ const nextConfig: NextConfig = {
     unoptimized: true,
   },
   // GitHub Pages serves this repo at /annas-home/ until a custom domain is set up.
-  basePath: "/annas-home",
+  basePath,
 };
 
 export default nextConfig;
