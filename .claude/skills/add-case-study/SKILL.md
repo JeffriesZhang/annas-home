@@ -180,7 +180,7 @@ Prepend (newest first) an object shaped like:
   "title": "<street address>",
   "location": "<City, ST ZIP>",
   "category": "For Sale" | "For Rent",
-  "description": "1-2 sentence description of the staging work",
+  "description": "1-2 sentence description — see note below",
   "cover": "/images/cases/<slug>/cover.jpg",
   "photos": [
     { "src": "/images/cases/<slug>/photos/<name>.jpg",
@@ -198,6 +198,16 @@ Note the two different `category` fields at different levels: the top-level
 one is the listing type (`"For Sale"` / `"For Rent"`, shown as a badge), the
 per-photo one is `"interior" | "exterior" | "aerial"` (defaults to
 `"interior"` if omitted).
+
+**Write a genuinely distinct description per property** — this is the same
+text shown both on the `/work` grid card and at the top of the detail page,
+so it's the one place a reader gets a sense of *this* house specifically.
+Don't reuse a template with only the city swapped (two real cases both
+started out as "Full-property staging for a single-family home in
+<City>...", which read as interchangeable). Pull real specifics instead:
+bed/bath count and square footage off the floor plan if there is one,
+distinctive rooms you saw while curating (a home office, a primary suite,
+a two-story layout, a patio/backyard), single-story vs. two-story, etc.
 
 The detail page (`app/work/[id]/page.tsx`) splits `photos` into Interior /
 Exterior / Aerial View sections by that per-photo `category`. Set it
