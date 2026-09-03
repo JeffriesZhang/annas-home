@@ -17,7 +17,12 @@ export async function generateMetadata(props: PageProps<"/work/[id]">) {
   return { title: item ? `${item.title} | Lumina Staging` : "Case Study" };
 }
 
-type CasePhoto = { src: string; original: string; blurDataURL: string };
+type CasePhoto = {
+  src: string;
+  original: string;
+  blurDataURL: string;
+  aerial?: boolean;
+};
 
 function PhotoGrid({ title, photos }: { title: string; photos: CasePhoto[] }) {
   return (
@@ -51,8 +56,8 @@ export default async function CaseDetailPage(props: PageProps<"/work/[id]">) {
   if (!item) notFound();
 
   const photos = item.photos ?? [];
-  const aerialPhotos = photos.filter((p) => p.src.includes("/DJI_"));
-  const interiorPhotos = photos.filter((p) => !p.src.includes("/DJI_"));
+  const aerialPhotos = photos.filter((p) => p.aerial);
+  const interiorPhotos = photos.filter((p) => !p.aerial);
 
   return (
     <div className="mx-auto max-w-5xl px-6 py-20">

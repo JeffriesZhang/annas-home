@@ -171,7 +171,8 @@ Prepend (newest first) an object shaped like:
   "photos": [
     { "src": "/images/cases/<slug>/photos/<name>.jpg",
       "original": "/images/cases/<slug>/originals/<name>.jpg",
-      "blurDataURL": "data:image/jpeg;base64,..." }
+      "blurDataURL": "data:image/jpeg;base64,...",
+      "aerial": false }
   ],
   "floorPlan": "/images/cases/<slug>/floor-plan.jpg",   // omit if none
   "matterportUrl": "https://my.matterport.com/show/?m=...", // omit if none
@@ -179,10 +180,12 @@ Prepend (newest first) an object shaped like:
 }
 ```
 
-The detail page (`app/work/[id]/page.tsx`) auto-splits `photos` into
-"Interior" vs "Aerial View" sections by checking whether the filename
-contains `/DJI_` — if a future vendor's aerial files use a different naming
-convention, either rename them to match or extend that filter.
+The detail page (`app/work/[id]/page.tsx`) splits `photos` into "Interior" vs
+"Aerial View" sections by the explicit `aerial: true` flag on each photo
+object — set it yourself when curating (drone/rooftop shots), don't rely on
+filename conventions (vendors are inconsistent — one delivery used `DJI_*`,
+another just numbered `Image_N.jpg` for its aerial pass indistinguishably
+from ground-level ones). Omit or set `false` for everything else.
 
 No code changes are needed to pick the entry up — `generateStaticParams()` in
 `app/work/[id]/page.tsx` and the list rendering in `app/work/page.tsx` /
