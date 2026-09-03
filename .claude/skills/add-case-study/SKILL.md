@@ -62,12 +62,21 @@ across parallel workers. A quick pattern:
 import concurrent.futures, urllib.request, os
 def dl(row):
     idx, name, url = row
+    safe_name = name.strip().replace(" ", "_")  # vendor filenames can contain spaces
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=30) as r, open(f"full/{idx:03d}_{name}.jpg", "wb") as f:
+    with urllib.request.urlopen(req, timeout=30) as r, open(f"full/{idx:03d}_{safe_name}.jpg", "wb") as f:
         f.write(r.read())
 with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:
     list(ex.map(dl, rows))
 ```
+
+Sanitize spaces out of filenames at download time (as above) — a vendor
+manifest can hand you a name like `Image_41 2` (two variants of the same
+shot, space-separated). Left in, it breaks the contact-sheet step below:
+`magick montage "@listfile"` reads `@listfile` as *whitespace*-separated,
+not newline-separated, so a space inside one filename splits it into two
+bogus arguments and montage fails with "unable to open image" on an
+unrelated fragment. If you hit that error, it's almost always this.
 
 ## 2. Curate — don't dump everything in
 
@@ -106,10 +115,14 @@ for f in full/*.jpg; do
 done
 ls thumbs/*.jpg | sort | split -l 24 - batch_
 i=1; for b in batch_*; do
-  magick montage $(cat "$b") -tile 6x4 -geometry 260x260+2+2 -background white "sheet_$(printf '%02d' $i).jpg"
+  magick montage "@$b" -tile 6x4 -geometry 260x260+2+2 -background white "sheet_$(printf '%02d' $i).jpg"
   i=$((i+1))
 done
 ```
+
+(`"@$b"` — one `@`-prefixed listfile argument — not `$(cat "$b")`, which
+word-splits into a huge unquoted argument list and reintroduces the
+space-in-filename bug even after sanitizing at download time if you forget.)
 
 Read the `sheet_NN.jpg` files, note which filenames to keep, then run the
 real per-photo processing (step 3) only on that curated list.
