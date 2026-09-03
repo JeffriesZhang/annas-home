@@ -21,7 +21,7 @@ type CasePhoto = {
   src: string;
   original: string;
   blurDataURL: string;
-  aerial?: boolean;
+  category?: "interior" | "exterior" | "aerial";
 };
 
 function PhotoGrid({ title, photos }: { title: string; photos: CasePhoto[] }) {
@@ -55,9 +55,10 @@ export default async function CaseDetailPage(props: PageProps<"/work/[id]">) {
   const item = casesData.find((c) => c.id === id);
   if (!item) notFound();
 
-  const photos = item.photos ?? [];
-  const aerialPhotos = photos.filter((p) => p.aerial);
-  const interiorPhotos = photos.filter((p) => !p.aerial);
+  const photos = (item.photos ?? []) as CasePhoto[];
+  const interiorPhotos = photos.filter((p) => p.category !== "exterior" && p.category !== "aerial");
+  const exteriorPhotos = photos.filter((p) => p.category === "exterior");
+  const aerialPhotos = photos.filter((p) => p.category === "aerial");
 
   return (
     <div className="mx-auto max-w-5xl px-6 py-20">
@@ -104,6 +105,14 @@ export default async function CaseDetailPage(props: PageProps<"/work/[id]">) {
               <h2 className="text-xl font-semibold tracking-tight">Interior</h2>
               <div className="mt-6">
                 <PhotoGrid title={item.title} photos={interiorPhotos} />
+              </div>
+            </div>
+          )}
+          {exteriorPhotos.length > 0 && (
+            <div>
+              <h2 className="text-xl font-semibold tracking-tight">Exterior</h2>
+              <div className="mt-6">
+                <PhotoGrid title={item.title} photos={exteriorPhotos} />
               </div>
             </div>
           )}
