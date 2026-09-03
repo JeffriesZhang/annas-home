@@ -76,9 +76,13 @@ Vendor deliveries often bundle far more than usable listing photos:
 - Duplicate coverage (e.g. a `DSC_*` standard-lens pass and a separate
   `Image_*` wide-lens pass of the same rooms) — pick the better one per
   room/angle rather than keeping both.
-- Target roughly the same order of magnitude as the site's first case
-  (~30–40 curated photos across exterior, living/dining, kitchen, bathrooms,
-  bedrooms, backyard) even if the raw delivery has 100+.
+- Default to showing more rather than fewer angles per room once the above
+  exclusions are applied — a first pass that only keeps one photo per room
+  reads as too sparse (this happened on the second case: an initial 33-photo
+  cut got expanded to 60 after the user asked for fuller coverage). It's
+  fine to end up in the 50–60+ range for a house with many rooms; there's no
+  fixed target count. Cut only near-duplicate angles of the *same* shot, not
+  different angles/rooms.
 
 To review a large batch quickly without spending tokens on 100+ full-size
 reads: resize everything to small labelled thumbnails, then use
@@ -172,7 +176,7 @@ Prepend (newest first) an object shaped like:
     { "src": "/images/cases/<slug>/photos/<name>.jpg",
       "original": "/images/cases/<slug>/originals/<name>.jpg",
       "blurDataURL": "data:image/jpeg;base64,...",
-      "aerial": false }
+      "category": "interior" }
   ],
   "floorPlan": "/images/cases/<slug>/floor-plan.jpg",   // omit if none
   "matterportUrl": "https://my.matterport.com/show/?m=...", // omit if none
@@ -180,12 +184,20 @@ Prepend (newest first) an object shaped like:
 }
 ```
 
-The detail page (`app/work/[id]/page.tsx`) splits `photos` into "Interior" vs
-"Aerial View" sections by the explicit `aerial: true` flag on each photo
-object — set it yourself when curating (drone/rooftop shots), don't rely on
-filename conventions (vendors are inconsistent — one delivery used `DJI_*`,
-another just numbered `Image_N.jpg` for its aerial pass indistinguishably
-from ground-level ones). Omit or set `false` for everything else.
+Note the two different `category` fields at different levels: the top-level
+one is the listing type (`"For Sale"` / `"For Rent"`, shown as a badge), the
+per-photo one is `"interior" | "exterior" | "aerial"` (defaults to
+`"interior"` if omitted).
+
+The detail page (`app/work/[id]/page.tsx`) splits `photos` into Interior /
+Exterior / Aerial View sections by that per-photo `category`. Set it
+yourself when curating — don't infer it from filenames or assume "not
+aerial" means "interior": ground-level exterior shots (front yard,
+driveway, backyard/patio, twilight re-lights) need `"exterior"` explicitly,
+or they'll get mislabeled as interior. Vendor naming is inconsistent too
+(one delivery used `DJI_*` for aerials, another just numbered
+`Image_N.jpg` indistinguishably from ground shots) — always classify by
+looking at the actual photo, not the filename.
 
 No code changes are needed to pick the entry up — `generateStaticParams()` in
 `app/work/[id]/page.tsx` and the list rendering in `app/work/page.tsx` /
