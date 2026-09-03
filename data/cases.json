@@ -1268,37 +1268,5 @@
     "floorPlan": "/images/cases/1506-canna-ct-mountain-view-ca-94043/floor-plan.jpg",
     "matterportUrl": "https://my.matterport.com/show/?m=iST4K7ms7cV&brand=0",
     "coverBlurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAgEAACAQQBBQAAAAAAAAAAAAABAgQAERIhAxMxQUJR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQEBAAMAAAAAAAAAAAAAAAABAAIREv/aAAwDAQACEQMRAD8AaND6ElgGRj63I+bqzljyGTDNVDeLjdRtxIyjJb7PejYALrVTioaJyX//2Q=="
-  },
-  {
-    "id": "sunnyvale-3br",
-    "title": "Sunnyvale 3-Bedroom Remodel",
-    "location": "Sunnyvale, CA",
-    "category": "For Sale",
-    "description": "Full staging for a three-bedroom single-family listing, highlighting the living room's natural light and open kitchen layout.",
-    "cover": "/images/cases/sunnyvale-3br.jpg"
-  },
-  {
-    "id": "san-jose-condo",
-    "title": "San Jose Condo Refresh",
-    "location": "San Jose, CA",
-    "category": "For Rent",
-    "description": "A modern, minimal styling plan aimed at young renters to quickly boost lease conversion for a vacant unit.",
-    "cover": "/images/cases/san-jose-condo.jpg"
-  },
-  {
-    "id": "palo-alto-family",
-    "title": "Palo Alto Family Home",
-    "location": "Palo Alto, CA",
-    "category": "For Sale",
-    "description": "A warm, family-oriented staging approach that showcases the backyard and primary suite for family buyers.",
-    "cover": "/images/cases/palo-alto-family.jpg"
-  },
-  {
-    "id": "oakland-loft",
-    "title": "Oakland Loft Apartment",
-    "location": "Oakland, CA",
-    "category": "For Rent",
-    "description": "A minimal, industrial-style staging plan that preserves the building's original character while adding warmth.",
-    "cover": "/images/cases/oakland-loft.jpg"
   }
 ]
