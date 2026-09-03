@@ -1,7 +1,7 @@
 import { PlaceholderImage } from "@/components/placeholder-image";
 
 export const metadata = {
-  title: "About | Anna's Home Staging",
+  title: "About | Lumina Staging",
 };
 
 export default function AboutPage() {
@@ -12,7 +12,7 @@ export default function AboutPage() {
         A team dedicated to Bay Area home staging
       </h1>
       <p className="mt-6 max-w-2xl text-base text-muted-foreground">
-        Anna&apos;s Home Staging is a team of interior stylists and space
+        Lumina Staging is a team of interior stylists and space
         planners who have worked with agents, homeowners, and real estate
         teams across the Bay Area, helping listings attract attention faster
         through thoughtful staging.

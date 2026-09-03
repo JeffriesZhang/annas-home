@@ -3,7 +3,7 @@ import servicesData from "@/data/services.json";
 import casesData from "@/data/cases.json";
 
 export const metadata = {
-  title: "Work | Anna's Home Staging",
+  title: "Work | Lumina Staging",
 };
 
 export default function WorkPage() {

@@ -24,7 +24,7 @@ export default function Home() {
             faster
           </h1>
           <p className="mt-6 max-w-xl text-base text-muted-foreground">
-            Anna&apos;s Home Staging offers full-service staging and space
+            Lumina Staging offers full-service staging and space
             planning for agents and homeowners, helping listings stand out in
             the market.
           </p>

@@ -14,7 +14,7 @@ export function generateStaticParams() {
 export async function generateMetadata(props: PageProps<"/work/[id]">) {
   const { id } = await props.params;
   const item = casesData.find((c) => c.id === id);
-  return { title: item ? `${item.title} | Anna's Home Staging` : "Case Study" };
+  return { title: item ? `${item.title} | Lumina Staging` : "Case Study" };
 }
 
 type CasePhoto = { src: string; original: string; blurDataURL: string };

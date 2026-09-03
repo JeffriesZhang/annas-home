@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Anna's Home Staging",
+  title: "Lumina Staging",
   description: "Bay Area home staging services that help listings sell faster.",
 };
 
