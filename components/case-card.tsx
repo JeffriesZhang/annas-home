@@ -48,9 +48,9 @@ export function CaseCard({
           </Badge>
         )}
       </div>
-      <div className="mt-3 flex items-baseline justify-between gap-3">
-        <p className="text-sm font-medium">{item.title}</p>
-        <p className="shrink-0 text-xs text-muted-foreground">{item.location}</p>
+      <div className="mt-3">
+        <p className="truncate text-sm font-medium">{item.title}</p>
+        <p className="text-xs text-muted-foreground">{item.location}</p>
       </div>
       {description && (
         <p className="mt-1.5 text-sm text-muted-foreground">{description}</p>
