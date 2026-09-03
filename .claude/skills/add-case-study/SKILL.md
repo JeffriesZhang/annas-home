@@ -42,6 +42,16 @@ The user will hand you either:
   4. The same page's embedded JS object (`hd.dataSession = {...}`) usually has
      the full address (`sAddress`, `sCity`, `sState`, `sZipCode`) — use it to
      build the slug and case title instead of asking the user.
+  5. **Check for a floor plan before concluding there isn't one.** It isn't
+     always an inline JPG media item (`nMediaTypeID == 9`) — grep the page
+     for `(?i)floor.?plan` first; a real floor plan often only shows up as
+     an *embedded* entry like `"sMediaName":"Floor Plan","sUrl":"https://
+     www.dropbox.com/scl/fo/...` alongside the Matterport embed. For a
+     Dropbox **folder** share link like that, `curl` the page itself won't
+     list files (it's a JS-rendered SPA) — instead swap the query string's
+     `dl=0` for `dl=1` and `curl -sL` that; Dropbox 302-redirects straight to
+     a zip download of the folder's contents. `unzip` it to get the actual
+     floor plan JPG/PDF.
 
 Download everything to a scratch dir first (the session's scratchpad, not the
 repo) using a **Python `ThreadPoolExecutor` + `urllib`**, not `xargs` — this
