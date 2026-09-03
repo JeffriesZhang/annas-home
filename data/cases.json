@@ -1,5 +1,342 @@
 [
   {
+    "id": "2517-read-ave-belmont-ca-94002",
+    "title": "2517 Read Ave",
+    "location": "Belmont, CA 94002",
+    "category": "For Sale",
+    "description": "A two-story, 4-bed, 3-bath hilltop home in Belmont (~2,684 sq ft) with sweeping bay views from a wraparound deck, themed kids' rooms, and a lower-level flex/media room, staged throughout with a Matterport 3D tour.",
+    "cover": "/images/cases/2517-read-ave-belmont-ca-94002/cover.jpg",
+    "photos": [
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0687.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0687.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIRAAAgEDAwUAAAAAAAAAAAAAAQIRAAMhBEFREiJhcYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/ANoXyrKncWbxIH2qK+QhYTxOSOaMLSNobilRBb1Q9Gcod1fpB3iaNKP/2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0696.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0696.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIDEQAEBSExccH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AHnkAkYhRTGxeQZCGAau+xXvM7yO3sR70qpNIqiqAYgeMZ02Zn17JNx/cg//2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0705.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0705.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAHxAAAgEFAAMBAAAAAAAAAAAAAQIRAAMEEiExMlGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/ANnLyDioHI2DPr8iqWrvFWXkifXn7Qcp23uiTxiKbZdjwng8VI7KX//Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0711.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0711.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEBf/EACEQAQACAQQBBQAAAAAAAAAAAAECEQADEhMhBBQxMkFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8A3BSNQR+5V7l4+Sp6cNw777yPyYnoxOnUnEmjSl1gRNLjYFMfj+ZNMf/Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0723.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0723.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIxABAAICAQEJAAAAAAAAAAAAAQIDAAQRsQUSISIjMXKBwf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Adv1qr5RLRQ5TzMejkpaOrVxOA9+KJ6kn9zRtKUXfB6YP2Ssrdhl7kTx+8g//2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0729.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0729.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAgEAACAQMEAwAAAAAAAAAAAAABAgMAESEEMVFxIiRB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCrqJ5Y4mWAq0h2Ba988dXpAlUQguSGPAxQtd6yxLB4AkA2+juk3IdVGxAxUH//2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0741.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0741.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAF/8QAHRABAAEEAwEAAAAAAAAAAAAAAQIAAxEhBBIxE//EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAWEQADAAAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhEDEQA/ANi3flGBHdxNZxVPlgh2iL6Z2UXh24nFv3QfoMsOfN0UhGR2kDJ9Wg6EpP/Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0747.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0747.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAF/8QAIRAAAgICAQQDAAAAAAAAAAAAAQIDEQAEIRITIiNBQmH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABURAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIRAxEAPwDYfYEUihbUP9Sb5yXZ7kpjDCwLNHChAffJYX0xkr+G6wd/17qunizJZI+eclZC/9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0753.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0753.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIF/8QAIRAAAgEDAwUAAAAAAAAAAAAAAQIRAAMEBRJBITFDUWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAESEf/aAAwDAQACEQMRAD8A3gzhVIYGfdAHyL/lVEPKd6u0AbuRIna3T5R6gxTDBQ7ZJmOadkGqP//Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0768.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0768.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIE/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIAEQMEISIxMkH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABURAQEAAAAAAAAAAAAAAAAAAAAS/9oADAMBAAIRAxEAPwBfJslMyIFDK121+tCQu8xZQEHI+mqMKd2V0piLJE2J288ydHL/2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0786.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0786.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACAQAAIBBAEFAAAAAAAAAAAAAAECEQADBBIhIjFBQlH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/ANxslQxBOrcEAGaXYybr7yBG3Tz6/ai7zNC5bVMaVEEeZoUo/9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0798.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0798.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMF/8QAHhAAAgEFAQEBAAAAAAAAAAAAAQIDAAQREiExQVH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFhEBAQEAAAAAAAAAAAAAAAAAABIh/9oADAMBAAIRAxEAPwDTN+VupIiwOshBz6Bygt/cgAJCrnbDEkrz9FKZF2dtRsx6cdNRiGsykZ9H2hWlL//Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0819.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0819.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAHRAAAgMBAAMBAAAAAAAAAAAAAQIDESEABAUSUf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAWEQADAAAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhEDEQA/AFpvZgSoIyrIRZaiL3tJ8uMfNtjGrOcRMKhRBi/ZFD86p1KOgDODoSk//9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0840.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0840.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIF/8QAHRAAAQQDAQEAAAAAAAAAAAAAAQIDBBEAEiFRof/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAWEQADAAAAAAAAAAAAAAAAAAAAESH/2gAMAwEAAhEDEQA/ANIPkxWVFak7USqst+WW2ipnVwiuXg46iY8YE8qvmJcbRoBqmq8wuCVP/9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0852.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0852.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIRAAAgEDAwUAAAAAAAAAAAAAAQIDAAUxBBEhEiJRYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwDcm1aKivGQ6kgcUdbiqzlXICYBPmjEkdO3HcMfatGokucqOAy7YI9UR2SZf//Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0885.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0885.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIRAAAgEDAwUAAAAAAAAAAAAAAQIRAAQSEyExAxQiQXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFhEBAQEAAAAAAAAAAAAAAAAAABIh/9oADAMBAAIRAxEAPwBU3tzroO3GiyyWzllPzitBuTj4LLTENtRwJyU+wdqt1FDOGPKjYzxQrCl//9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0906.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0906.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQF/8QAHhABAQACAgIDAAAAAAAAAAAAAQIAEQQSE1ExQXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFREBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhEDEQA/ANx5FiSTVD9v5hrmeIkoUd7fXxg5MkdeprRktHaina694FkF/9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0924.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0924.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDBf/EAB8QAAIBBAIDAAAAAAAAAAAAAAECAwAEERIhMRMiYf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDZN2UVNh7ngqvODUZry48ciW6gzDrc8U+x0P04NF0QxRtqMnvAoL//2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0942.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0942.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgMF/8QAIBAAAgICAgIDAAAAAAAAAAAAAQIDEQAEEhMhImFxgf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQEBAQEAAAAAAAAAAAAAAAABABFB/9oADAMBAAIRAxEAPwDXk3JBYijDt18gCas/eOHcrXDSDqY0WA9qJyGuxZmUmxwv9vFsqHSNG8rzAr484R02Scv/2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0951.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0951.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEF/8QAIBABAAIBAgcAAAAAAAAAAAAAAQIRAAQSISIxMkFxgf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQEAAwAAAAAAAAAAAAAAAAAAAQIS/9oADAMBAAIRAxEAPwDcdTtj220WHj7ljqSkup9acHuTS0NGGjyqx4K2+8Gjir//2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0972.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0972.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAfEAACAgICAwEAAAAAAAAAAAABAgMRAAQFIRIxQRT/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwC3lE1+P1hPFpxSO0gFML93ZxuG3f16sshiRDGwFKK+XiNIw6uxfo94iNUD+IUWPigYZSx//9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_0993.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_0993.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIF/8QAIBABAAEEAQUBAAAAAAAAAAAAAQIAAxESBQQTITFhFP/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8A1b3IED0G1vcV+1JySSMR7kdNnQ8yflD68N7McGrEExQrS/tumXEYJHz6M0aUf//Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1017.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1017.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAeEAACAgMBAAMAAAAAAAAAAAABAgMRAAQhEgVBcf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAaEQACAgMAAAAAAAAAAAAAAAABAgAREhQx/9oADAMBAAIRAxEAPwBtPxFrFpYmZwelF6RjJ8jBBREcjXfABY/e5FuOw2JKYiz2sAMfJN/WFssoxEElb5P/2Q==",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1050.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1050.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACAQAQACAQQCAwAAAAAAAAAAAAECAwAEERMhEjFBUbH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAQACAwAAAAAAAAAAAAAAAAIAAQQRMf/aAAwDAQACEQMRAD8Aqvurqq8px8xQ3g7fuM556altKug6eQTMm2Txz7fX3g6OcmERdxkiPzhOS1WpMkq+T//Z",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1086.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1086.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIF/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIDBAAREiExUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAAIDAQAAAAAAAAAAAAAAAAABAhMxA//aAAwDAQACEQMRAD8ATFNXnUsVkH3jlR3aVc65vv0Y8y1ZgAQTseMROS9Ms3ZKbyr+mNhRHUf/2Q==",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1089.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1089.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwX/xAAeEAEBAAICAgMAAAAAAAAAAAABAgMRAAQTQRIhsf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGxEAAQQDAAAAAAAAAAAAAAAAAQACESEDE0H/2gAMAwEAAhEDEQA/AGy2Hx80+TboZNPFw5up1nVOSafTG/zkdyXd03S/acp4wrDJQIh65RzvFTSNDCZ6v//Z",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1104.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1104.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EACEQAAIABgEFAAAAAAAAAAAAAAECAAMEERIhQQUTYXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQADAAMAAAAAAAAAAAAAAAAAAQIDE0H/2gAMAwEAAhEDEQA/AKptZRA7aYx8JAK2XTuR2JtuLgC5+xnMxXpKYkjI7tzswmU7GiW52SQT6i1lt9DVKP/Z",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1128.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1128.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIF/8QAIBAAAgEDBAMAAAAAAAAAAAAAAQIRAAQxAxIhYQUTIv/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREBAAIDAAAAAAAAAAAAAAAAAQACAxIT/9oADAMBAAIRAxEAPwBa3tpqGH3qxx8zNUvkbHQMewk4jbWTeOyXqBTAYkHvFEuuNVOBys47p3yDqsm0Bn//2Q==",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1149.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1149.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEC/8QAHRABAAICAgMAAAAAAAAAAAAAAQIRAAMSITFBYf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/AG9e0jQIsm5d9n3Nu08chvvDCcoynSnKVKewyEkbHJpj/9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1155.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1155.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEF/8QAIRAAAgAGAQUAAAAAAAAAAAAAAQIAAxESITEEI0FCUVL/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwDXXkOOU0q02A0DHPaES5geouWoOgcwL6fTE5I3EU9ZH8i4BPuJpj//2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1164.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1164.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAHhAAAgIDAAMBAAAAAAAAAAAAAQIDEQAEITFBYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwDQyMEFlqH3DnYWVVBqiR4N+8nbk8sW+QkjACuXY6MbsIqSRFAFJIPP3COyTL//2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1188.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1188.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIDBf/EACAQAAEEAQQDAAAAAAAAAAAAAAEAAhEhAwQiMYETUXH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AN3Nkl7DZFmvUKT8m1m7knnpJrawsIohxEj4g4DwNMAkOMT0pL//2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1194.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1194.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAHRAAAgICAwEAAAAAAAAAAAAAAQIAIQMRBBIxgf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAMAwEAAhEDEQA/ANjjMUxWpoGvsWrDVQT2pUk6IuS4rsMvQE9deQpmP//Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1218.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1218.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACEQAAICAQMFAQAAAAAAAAAAAAECAxEABBIhBQYTFFFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAEAMf/aAAwDAQACEQMRAD8ArTzevE8qkgcWKxSDuDTF418LHewWyw+1eECXaQNyCTf7mc1saQ9RCRDaocUBgbKX/9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1233.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1233.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQF/8QAIBAAAgEEAQUAAAAAAAAAAAAAAQIRAAMSIUETIjFRYf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/AN9rih8Mu6JiePdHrKAIIk62Y4qSTSSxbKq5QZCWB+nyaB2Uy//Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1254.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1254.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAB/8QAHhAAAQQCAwEAAAAAAAAAAAAAAQACESEDMQQSE0H/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAwDAQACEQMRAD8Ad9IGwCrHma4wDcTaOBIi/qwAM5+Fjab1dQ0pHZTL/9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1263.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1263.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEE/8QAHxAAAgIBBAMAAAAAAAAAAAAAAQIDEQAEEiFBMVFi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/AHnlZOrHZ9ZJdQsUBklYKo7wfW3bpZ2mNSRf0c3TIpgaIi02eDzk6bH/2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1281.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1281.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQL/xAAfEAACAQQCAwAAAAAAAAAAAAABAhEAAxIxISIEBWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/AH3vm27qV6KMsvlTa8mUYlyeMpIHAjUUR6hma3cZmJJ3JmaSTvAaCMgNUaUf/9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1290.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1290.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQF/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIDEQAhBCIxQmH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFhEBAQEAAAAAAAAAAAAAAAAAABES/9oADAMBAAIRAxEAPwDafkiGNFBJJ6jV7+4xyh5NBD7k6yB2IRaNYZKljCSAMtXVYNFH/9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1308.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1308.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEF/8QAIRAAAQQBBAMBAAAAAAAAAAAAAQIDBCEABRESEyIxYUH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAMAwEAAhEDEQA/ANWRPaiNuyOAu117+5NH1Rmb2dKAhKbI+1gcEusgOJCgpO5BFG8WG2hiO8GUJbBvxG35kDPTb//Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1314.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1314.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAHhAAAwACAgMBAAAAAAAAAAAAAQIDABEEEgYhQXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/AG7cuMWApZEP3bAaykrd1Qn12GxmavCd/IOQtUDAdfR/Bi6MQy6PzWBj/9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1320.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1320.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAHxAAAQMEAwEAAAAAAAAAAAAAAQACEQMEEiEFMUFR/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAQADAQAAAAAAAAAAAAAAAAEAAiEx/9oADAMBAAIRAxEAPwCYcbbljTb16zstgFmkTeMzOIqNx+wtU9FvgEQhIiQNAdI3XY1VDs//2Q==",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1338.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1338.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAfEAACAgICAwEAAAAAAAAAAAABAgMRAAQFMRIhQYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAAIDAAAAAAAAAAAAAAAAAAARASFB/9oADAMBAAIRAxEAPwCZeH1fAvHsT0T6BjHX6cJuLjANNKT8JUUcfaYtNIjEla6vAEjrsIoYgV1eFMpcaf/Z",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1353.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1353.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEE/8QAIhAAAgAFAwUAAAAAAAAAAAAAAQIAAwQRIQUSMRMUQYGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQACAwEAAAAAAAAAAAAAAAAAAgERIRP/2gAMAwEAAhEDEQA/AMGmUGmsT3M1phAFgOL+ccwlKrqSkcrKp9ssG2AAfkFOi9W+0XsD7isiqcDkxPRlyBdb2T//2Q==",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1368.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1368.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEE/8QAHhABAAICAgMBAAAAAAAAAAAAAQIRAAMSITFBgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABgRAAIDAAAAAAAAAAAAAAAAAAABERIT/9oADAMBAAIRAxEAPwDM6Jcq4+fcez8yQ0RkHKNC0tXXzE1SZRFVbxIKyF7R6yfRoawf/9k=",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1377.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1377.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EAB4QAQACAgIDAQAAAAAAAAAAAAECEQADEiEFFTGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIREkH/2gAMAwEAAhEDEQA/AI5+KjJrQq1fFLfzB9TMYk0qTTxLrq80OqJHWUB1iohy+YFBdKbdH//Z",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1428.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1428.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACIQAQABAwMEAwAAAAAAAAAAAAECAAMRBBIhBRUigTNRkf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREAAgMBAAAAAAAAAAAAAAAAAAECBBMh/9oADAMBAAIRAxEAPwCufU9LccsLj7Ch3PSRPjufXjisQWBPbxhwflOtu8mS5AMHuirU3wlmj//Z",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/DSC_1446.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/DSC_1446.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAF/8QAIhAAAQQBAgcAAAAAAAAAAAAAAQACAyERBBIFExUiQaGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAZEQABBQAAAAAAAAAAAAAAAAAAAQIRExT/2gAMAwEAAhEDEQA/AFO4ppZbcyX0rqWka3IjlPisfVhHtA21SVAc8sm9zryjpfBOtD//2Q==",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/IMG_3800.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/IMG_3800.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIF/8QAIBAAAgEDBAMAAAAAAAAAAAAAAQIDAAQRBRITISIxQf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAXEQADAQAAAAAAAAAAAAAAAAAAARES/9oADAMBAAIRAxEAPwDUZRclJEc8RAzgnsVMk0C2phhKsfIYU90C5uZVWBFfCkRkgAD5SJkQ6QJti8mSN2O/dMpCn//Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/IMG_3808.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/IMG_3808.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAhEAABAwMEAwAAAAAAAAAAAAACAQMEABEhEhMiMQVS8P/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AvOvBldsdXslBmyyCILjCcwK43z93U/ysx9qSQtuKKdYRKEsh7Ua7p3RccuqK/9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/Image_1.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/Image_1.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAKABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIE/8QAHxAAAgICAgMBAAAAAAAAAAAAAQIDEQAEEiExQVGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABkRAAIDAQAAAAAAAAAAAAAAAAABAgMxE//aAAwDAQACEQMRAD8A0ELwDPEGc+VB7yNmdNRAHiju6AEt/gw/UZiO2J6+4nGiyap5qGo+xeI7LEtD5wbw/9k=",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/Image_12.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/Image_12.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgME/8QAIhAAAgEDAgcAAAAAAAAAAAAAAQIDABEhMUEEEhNRYYGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAXEQEBAQEAAAAAAAAAAAAAAAABABFB/9oADAMBAAIRAxEAPwAGIAFpbqAL+uwqLcRa3SXkUHYZ11NEOxkmQm6hcA7VnjxIPOv2pGsU5f/Z",
+        "category": "aerial"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/Image_1613.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/Image_1613.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAED/8QAHxABAQACAgEFAAAAAAAAAAAAAQIAEQMEMRIhQYHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAZEQACAwEAAAAAAAAAAAAAAAAAEQIDEiH/2gAMAwEAAhEDEQA/AEXZxknJu0oIde+G7HZuxClHxKa9R++MxKa7Fi71A5XxX1kcrXxDR//Z",
+        "category": "aerial"
+      },
+      {
+        "src": "/images/cases/2517-read-ave-belmont-ca-94002/photos/Image_3.jpg",
+        "original": "/images/cases/2517-read-ave-belmont-ca-94002/originals/Image_3.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIE/8QAHxABAAMAAgEFAAAAAAAAAAAAAQIDEQAhBBMyQVFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAYEQACAwAAAAAAAAAAAAAAAAAAARIxUf/aAAwDAQACEQMRAD8ARhOubH1EgSR3AeuuTVOmlrzypdSdJS6Pt5huMppNcYC/vBZZVYAe5N+eSeMSVn//2Q==",
+        "category": "aerial"
+      }
+    ],
+    "floorPlan": "/images/cases/2517-read-ave-belmont-ca-94002/floor-plan.jpg",
+    "matterportUrl": "https://my.matterport.com/show/?m=szKPesbfs7f",
+    "coverBlurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIF/8QAIBAAAgEDBAMAAAAAAAAAAAAAAQIRAAQxAxIhYQUTIv/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAGREBAAIDAAAAAAAAAAAAAAAAAQACAxIT/9oADAMBAAIRAxEAPwBa3tpqGH3qxx8zNUvkbHQMewk4jbWTeOyXqBTAYkHvFEuuNVOBys47p3yDqsm0Bn//2Q=="
+  },
+  {
     "id": "1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089",
     "title": "1172 La Rochelle Ter Unit C",
     "location": "Sunnyvale, CA 94089",
