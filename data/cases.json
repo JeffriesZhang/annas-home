@@ -1,5 +1,318 @@
 [
   {
+    "id": "1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089",
+    "title": "1172 La Rochelle Ter Unit C",
+    "location": "Sunnyvale, CA 94089",
+    "category": "For Sale",
+    "description": "A 3-story, 3-bed, 2.5-bath Sunnyvale townhome (~1,923 sq ft) — staged top to bottom with a main-level great room, a ground-floor flex/bonus room, and a private deck, plus a Matterport 3D tour.",
+    "cover": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/cover.jpg",
+    "photos": [
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3847.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3847.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECBP/EACEQAAIBAwMFAAAAAAAAAAAAAAECEQADIQQFEhMiQWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAaEQACAgMAAAAAAAAAAAAAAAAAAgESEyFR/9oADAMBAAIRAxEAPwC31YRuJaYEkhRikdxVWZWyq+Qomg6dO58ypiJwftYtxtAW+qCQxMeqhkdtWkNV4f/Z",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3852.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3852.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIF/8QAIRAAAQMDBAMAAAAAAAAAAAAAAQACAwQFERIhIkExUWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAEER/9oADAMBAAIRAxEAPwDeMo0B5zv6CtswLOR3PgfEW0OJp4wTnj2j3uaSK4UjY3aWnAIHeSiaa//Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3860.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3860.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAC/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIDEQASBGEhMbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oADAMBAAIRAxEAPwB1pWBIip6NML9Ztjr3hPAG81t5OjH5lLyZlSIhzZfU9jFwj//Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3876.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3876.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIG/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIDEQAEEiETMUH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABcRAAMBAAAAAAAAAAAAAAAAAAABAhH/2gAMAwEAAhEDEQA/ANAsh8QYZBmYPUnFFPS2fZw2rIx1IyT3Qwxdm2X5G6ur+d5FViFLT//Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3884.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3884.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EAB0QAAICAgMBAAAAAAAAAAAAAAECAxEAEgQTITL/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABgRAAMBAQAAAAAAAAAAAAAAAAABAhES/9oADAMBAAIRAxEAPwDQBqSxgdxEmsmqg/Nn0nFuLI7caIljZUE5PEjtJIWOxuvfcnV8oSWn/9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3888.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3888.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAHxAAAgICAQUAAAAAAAAAAAAAAQIDEQASBBMUISIy/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AH5JHDKUvWhsRkTOpVTfm8yyO2h9j9AYJxeRL3GnUbUuQReB/9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3892.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3892.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBf/EAB4QAAICAgIDAAAAAAAAAAAAAAECAAMREyFRMXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDaNSuxZbG47SQfZRWxA2KSPHB+RWYlyCxx7hgdSS//2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3904.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3904.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIE/8QAIhAAAgEDAwUBAAAAAAAAAAAAAQIRAAMEEiFBBRMiMVGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAwDAQACEQMRAD8AbXMtHQyOpDGCOR+Vd7K7dosQq/JM0DgqJV48zydzW7qgBxVU+tQ2ojS5JHf/2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3908.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3908.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFBv/EAB4QAAICAgIDAAAAAAAAAAAAAAECAxEABBIxQVFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8A0Cbau7KpRq6Ia7GCHYWaLnVG6I9YiGCKMu6IAxNX8yYZZE0S6uwZXIBvxyOTTH//2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3916.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3916.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAHRAAAgIDAAMAAAAAAAAAAAAAAQIDEQAEMQUycf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAVEQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEQMRAD8Aaj3HMzRuQAPU13KLsKatrOYfDRq2u8zC5C7Ase1iGwiiqAAHAPmAjf/Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3928.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3928.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAD/8QAIBAAAgEDBAMAAAAAAAAAAAAAAQIRAAMEExQhQVFhsf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwB3cXFUeY5UdVaoKyoknomKOz8i6ikq5ET8rIMyYwuqxDsOTPo0H//Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3932.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3932.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEC/8QAIBAAAgEEAQUAAAAAAAAAAAAAAQISAAMEEWEFFCEiUf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8Ada9EgyA2xBG+DUfJeLCJK+B60TlXrh7lCxip0B8rfR7j3cS2XaRDR3xuimP/2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3940.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3940.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIE/8QAIRAAAQQBAwUAAAAAAAAAAAAAAQACAxESBBMhI0FRYaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AHt4isrx7FQ94Loeb6iK1M8h14jLzgRZHlaYnHKL3Jz8UH//2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3944.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3944.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEF/8QAIhAAAgEDAgcAAAAAAAAAAAAAAQIDAAQREkEFFSEjYZHB/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABYRAQEBAAAAAAAAAAAAAAAAAABBQv/aAAwDAQACEQMRAD8A1L1pEuZGjlKgIMjbeis4xG8bSDult/lHxF25nImTpMS9PdVHYXiJk6dQOPOKHRI//9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3948.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3948.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwX/xAAdEAEAAgICAwAAAAAAAAAAAAABAgMAERIhQqHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC228CJIGJ6xmyLDZ2OTL5yB0+X3HrktfbkH//Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3952.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3952.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwX/xAAfEAACAgEEAwAAAAAAAAAAAAABAgARAwQSEyExYcH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ALTEMDVH4YK5dQrOXQVfTAeY4RcROwVZh5cr8hUMQPXUg//Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3956.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3956.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIF/8QAIRAAAgIABQUAAAAAAAAAAAAAAQIAAwQREiFREyIjMoH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANhydAYkb8SMRiq6qOnSu7DuZoDeK4KmYHENwC9qn1XMgfTJL//Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3960.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3960.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgEF/8QAHRAAAgICAwEAAAAAAAAAAAAAAQIAEgMRITFB8P/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A2ldEzAstgPty3NmqNIegfIVJZueY2GjkHgkH/9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3964.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3964.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIBAAAQMEAgMAAAAAAAAAAAAAAQIEEQADITEFEhOBwf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAWEQEBAQAAAAAAAAAAAAAAAAARACH/2gAMAwEAAhEDEQA/AG3rwWG3l3EQNTNWtXQpim6rUSYzRPPEhKADgr+VtbKI4TsDkJVn3RdJGN//2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3968.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3968.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMFBv/EAB8QAQABAwQDAAAAAAAAAAAAAAECAAMRBBIhMRNRcf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/ANJcntjw4+vFJhrLU9SQLphyBntKF3kB6an3IxhqrBEA8i4Pe2guSC//2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3976.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3976.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EAB8QAAIBBAIDAAAAAAAAAAAAAAECIQADBBESMSJBUf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/ALzZKJx2TJEAb7orOUtxQQQCeg0bFZ/CvOHxl5QyKCPo1TV/zW6rSFuRv1FAdkmX/9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_3996.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_3996.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAHxAAAgEEAgMAAAAAAAAAAAAAAQIRAAMEEiEiMUGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/ANq5mMlolE3YCSB6qtnLtvqNpLCYFD1Ayb4A41T7RMx2V5ViCr9YPiRUSnH/2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4008.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4008.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBf/EAB4QAAMAAgIDAQAAAAAAAAAAAAECAwAhBBESIjFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8A2k506SZ1JBXv1b7o9Y68tDNT5hSw0G0cjSM4TYSRU13oYRRaxQUUN+jJpj//2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4024.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4024.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAHRAAAgICAwEAAAAAAAAAAAAAAQIAEQMiBBJRIf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/ANkc0Bqo9exW4heQmUauGI8MCmuAOBsR9MjkRVOZlFMFNHyhJpj/2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4028.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4028.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFBv/EAB8QAAIBBAIDAAAAAAAAAAAAAAECAwAEESFBURIxcf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFREBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhEDEQA/ANE1wsSZ8gPppaW8ZIRIcLk98ULOJDZQkrliNk+zvuos7tJKQ5JAZgBwKlZC/9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4044.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4044.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACAQAQEAAQMEAwAAAAAAAAAAAAECAAMEIhESITFxkaH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8A3Y3B07qv7feA7h1GezlK8kTwYhmXaNoNUor5ycWNFuONSHRPn9ybTj//2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4056.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4056.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAHRAAAgICAwEAAAAAAAAAAAAAAQIDEQAEBRJRQf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQEBAQEAAAAAAAAAAAAAAAABAAIR/9oADAMBAAIRAxEAPwBabkUi2lgWRWYkhh9U+Zc291jdlKnpVgG8zrEtpWTZJsn04txUaNxqEqCSzXhHsnN//9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4072.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4072.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIBAAAgEDBAMAAAAAAAAAAAAAAQIDAAQRBRIhQRMxYf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQACAwAAAAAAAAAAAAAAAAAAAQIREv/aAAwDAQACEQMRAD8AYW8ZXZGdWZeSNwyBVob2OSNSSAx6zQ+qRRx2okRQsjPksPZ4PdZdIdvBK245DDnPyhqhKJ//2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4076.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4076.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEE/8QAJBAAAgECBQQDAAAAAAAAAAAAAQIDABEEBSEiMRMUQVFhgZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwBqXHwpdYpUZ7aLfT98VFzJQFUyRh2Om4fHFAui9tM1t3UAv9mteGgimydjIgYrISp9cUR2SX//2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4084.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4084.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIBAAAgEEAQUAAAAAAAAAAAAAAQIRAAMEIQUSE2GBsf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oADAMBAAIRAxEAPwBvLzLeOg63AaNAbJ9VHHz2uWVcvbBYSRIEVj5ABuVsA7HZn7RSCGaPNG6JKn//2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4088.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4088.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAfEAACAQQCAwAAAAAAAAAAAAABAgMABBEhEzESIiP/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwClNfWyOPugyN4GzR4LlHlmDt5urEDJziiNEkvDyKG2e6ZZ28WZfQd0B2aZf//Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4096.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4096.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQL/xAAdEAACAgMAAwAAAAAAAAAAAAABAgMRAAQhEhUx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwBeTYUSMs0sQ8btb6Dh77EXsqBVlIHDdE1jCwxSAyvGrPX0jI13ZmRSbHOVgY//2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4144.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4144.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAL/xAAgEAACAgEDBQAAAAAAAAAAAAABAgMRAAQSIiExMlFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABgRAAMBAQAAAAAAAAAAAAAAAAABEkEC/9oADAMBAAIRAxEAPwBg1Kh2jjjJ2kgUfX3Lj1qKgLRbi3UWawGmldn5ENtkarANYkATRCWXlIR5HvhzWMXOo//Z",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4156.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4156.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAED/8QAHxAAAgIBBAMAAAAAAAAAAAAAAQIDEQAEEiExMmFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAQEBAQAAAAAAAAAAAAAAAAEAMRH/2gAMAwEAAhEDEQA/AGTah4wrKpazRWrrKkxWyyCwfG+/uE0ksg53tdHm81WZ3hUM1hmXd7wCmSTu3//Z",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4168.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4168.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwL/xAAgEAACAQQBBQAAAAAAAAAAAAABAhEABBMxAyEiUWGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAARAQAS/9oADAMBAAIRAxEAPwA3tY7Q0jR9U7wltjTXk7NSzHO4noWP2m5lUWhIAmN1OJTPiO//2Q==",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4200.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4200.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgH/xAAdEAACAgIDAQAAAAAAAAAAAAABAhEhAAMGIzOx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AEDbirwWppiSMibuwICKsjC2wk8mSSfZfmIFJCazNlrwP//Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4204.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4204.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBv/EACEQAAEDBAEFAAAAAAAAAAAAAAIBAxEABAUSMRMhYXGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDQXz4MNiRGgIpRNDHui5uu+6TzPipMyKOW4gaSKknb7ScWIsWh9JNZNOPVQf/Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4208.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4208.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQP/xAAeEAACAgICAwAAAAAAAAAAAAABAgMRACEEEiIxYf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwB+XkxRuoLdbyiyUDW/uAlmjlUoSDR3iSsfHfuskdlL/9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4216.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4216.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQG/8QAIBAAAgEDBAMAAAAAAAAAAAAAAQIDABFBBAUTIUKhwf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQADAAAAAAAAAAAAAAAAAAAAEUH/2gAMAwEAAhEDEQA/ANG0hA+1PDuEcs3GrYv3nu1HqWIW9/ID3RzxopWRVAc5FEY1H//Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4224.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4224.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgEF/8QAHRAAAgMAAgMAAAAAAAAAAAAAAQIAAxETITFRgf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDZpYPSrkrpGyparMRyKp9bDWoUDAB8htqruYciK2djR4gX/9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4232.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4232.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIBAAAQMEAgMAAAAAAAAAAAAAAQIDBAAREiEjMXGBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREAAgMBAAAAAAAAAAAAAAAAABEBAhJh/9oADAMBAAIRAxEAPwBGdjzhBIUlonwQB19qcN5huIFyVFRJIuRetbhzgry3k3vXeqHkgIbQlOh3b3U2WejDZ//Z",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4240.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4240.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgP/xAAgEAACAgEDBQAAAAAAAAAAAAABAgMRAAQSQRQhMWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAMQH/2gAMAwEAAhEDEQA/AHHBNG6saIYEBmsgH5lJIWO0vLurwtUMjoJXmSQSMWAkHPvBqXbrHW+wZavjJ5DH/9k=",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4260.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4260.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAED/8QAHxABAAIBAwUAAAAAAAAAAAAAAQIDAAQREhQhIjFB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABcRAQEBAQAAAAAAAAAAAAAAAAECABH/2gAMAwEAAhEDEQA/AF9VXI8gVe6OWN0IirtHMaZOplxuecX56xjp6onKMAcNWnFwmR6G/9k=",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4272.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4272.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIBAAAQQCAQUAAAAAAAAAAAAAAgEDBBEAMVEFISIyQf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDRc8YTiiNr7fNbwvTpgvyW1HSEne94+StNHVa4yMZtsaMWwEuUFEwk/9k=",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4304.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4304.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEBf/EAB4QAAICAgIDAAAAAAAAAAAAAAECAxEABCExBRRB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8A0dfUj8ajSRObrm/uHuyNvQxlyFcggVVjm8oHJLHtejjgUSwQyOAWq7yYX//Z",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4308.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4308.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEF/8QAIhAAAQMDAwUAAAAAAAAAAAAAAQACAwQRIRIiMUFRkbHR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAMAwEAAhEDEQA/ANl1S6OFri4AnBHOUHdUyvi3OieSX4sCCPqRHipmPbTbwrqILbE9faC0Uh//2Q==",
+        "category": "interior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4390.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4390.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAhEAACAQMDBQAAAAAAAAAAAAABAgMAESESE0EEBSJRgf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGxEAAgEFAAAAAAAAAAAAAAAAAQIAAxESIVH/2gAMAwEAAhEDEQA/AJujhSJ9UzFtS3BAwPtPGkMZ3nDEg3Ma5x7p5Ik25BpFrcVN2tjKCJPKzkZHFTrWOII7CVU7tP/Z",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/IMG_4394.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/IMG_4394.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEC/8QAIhAAAgEDAgcAAAAAAAAAAAAAAQIDAAQRFGEhIjEyQWKS/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABkRAQACAwAAAAAAAAAAAAAAAAEAAhIhUf/aAAwDAQACEQMRAD8AzA5KMHKlgO3gMb0zXLJcCOGJTGQOfwN6Qn1X5FTTxPktGpz1ohc0MONeT//Z",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/Image_15.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/Image_15.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAP/xAAfEAACAQQCAwAAAAAAAAAAAAABAgMABBEhEiIxQVH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQADAAAAAAAAAAAAAAAAAAABETH/2gAMAwEAAhEDEQA/ALqzvzIjUsdkhqPJcBFMbaI9Mcil3XSVGj6FvOKHLGskblxk4O/tTi8H/9k=",
+        "category": "aerial"
+      },
+      {
+        "src": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/photos/Image_211.jpg",
+        "original": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/originals/Image_211.jpg",
+        "blurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwL/xAAfEAACAgICAwEAAAAAAAAAAAABAgMRABIhIjFBYdH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAAiH/2gAMAwEAAhEDEQA/ALllR9lkYbUSqheLv8xCrMQaILjq1eD8wo0V62F+8VkUNIgHU1wcjkXsv//Z",
+        "category": "aerial"
+      }
+    ],
+    "floorPlan": "/images/cases/1172-la-rochelle-ter-unit-c-sunnyvale-ca-94089/floor-plan.jpg",
+    "matterportUrl": "https://my.matterport.com/show/?m=ZoWtqcTjVeL",
+    "coverBlurDataURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECBP/EACEQAAIBAwMFAAAAAAAAAAAAAAECEQADIQQFEhMiQWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAaEQACAgMAAAAAAAAAAAAAAAAAAgESEyFR/9oADAMBAAIRAxEAPwC31YRuJaYEkhRikdxVWZWyq+Qomg6dO58ypiJwftYtxtAW+qCQxMeqhkdtWkNV4f/Z"
+  },
+  {
     "id": "2298-sunrise-dr-san-jose-ca-95124",
     "title": "2298 Sunrise Dr",
     "location": "San Jose, CA 95124",
